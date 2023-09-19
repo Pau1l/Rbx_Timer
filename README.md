@@ -1,5 +1,6 @@
 # Rbx_Timer
-Simple Timer module for Roblox
+Simple Timer module for Roblox:
+
 [Get the model here](https://www.roblox.com/library/14822550176/Timer-Module)
 
 ## Setting up the Timer:
