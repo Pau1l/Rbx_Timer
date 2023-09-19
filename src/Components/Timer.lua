@@ -37,7 +37,8 @@ function Timer:StartTimer(duration)
 
 		while self._isRunning ~= false do
 			if self._setTime > 0 then
-				WaitDelay(1) -- or just task.wait(1)
+				WaitDelay(1)
+				-- or just task.wait(1)
 				self._setTime -= 1
 			else
 				break
